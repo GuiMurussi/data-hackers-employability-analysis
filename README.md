@@ -4,13 +4,11 @@ Projeto de análise de dados baseado na pesquisa **State of Data Brazil**, reali
 
 O objetivo deste projeto é explorar dados sobre profissionais da área de dados no Brasil, analisando aspectos como diversidade, escolaridade, senioridade e distribuição geográfica.
 
----
 
 ## Objetivo
 
 Investigar padrões de empregabilidade na área de dados no Brasil e apresentar os resultados por meio de **visualizações interativas**, facilitando a interpretação dos dados.
 
----
 
 ## Dataset
 
@@ -25,7 +23,6 @@ A pesquisa analisa informações como:
 - distribuição geográfica
 - média salarial
 
----
 
 ## 📊 Dashboard
 
@@ -37,10 +34,10 @@ O dashboard foi desenvolvido utilizando **Looker Studio**, com o objetivo de apr
 
 Também é possível visualizar o relatório em PDF:
 
-📄 [Visualizar relatório em PDF](dashboard/data-hackers-dashboard.pdf)
+[Visualizar relatório em PDF](dashboard/data-hackers-dashboard.pdf)
 
 
-Principais análises realizadas:
+## Principais análises realizadas:
 
 ### Diversidade na área de dados
 - Distribuição por **gênero e etnia**
@@ -63,7 +60,6 @@ Principais análises realizadas:
 ### Média salarial
 - Comparação salarial entre diferentes grupos de gênero
 
----
 
 ## Ferramentas utilizadas
 
@@ -72,7 +68,6 @@ Principais análises realizadas:
 - Visualização de dados
 - Análise exploratória de dados
 
----
 
 ## 📈 Principais aprendizados
 
@@ -82,8 +77,6 @@ Este projeto permitiu desenvolver habilidades em:
 - construção de dashboards interativos
 - interpretação de dados de pesquisas
 - comunicação visual de insights
-
----
 
 ## Autor
 
