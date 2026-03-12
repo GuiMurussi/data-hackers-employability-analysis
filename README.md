@@ -37,7 +37,7 @@ O dashboard foi desenvolvido utilizando **Looker Studio**, com o objetivo de apr
 
 Também é possível visualizar o relatório em PDF:
 
-📄 `dashboard.pdf`
+📄 `Relatório_Data_Hackers.pdf`
 
 
 Principais análises realizadas:
