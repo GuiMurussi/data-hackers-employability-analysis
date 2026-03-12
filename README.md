@@ -31,6 +31,15 @@ A pesquisa analisa informações como:
 
 O dashboard foi desenvolvido utilizando **Looker Studio**, com o objetivo de apresentar os dados de forma visual e acessível.
 
+🔗 **Acesse o dashboard:**
+
+[Abrir Dashboard Interativo](https://lookerstudio.google.com/reporting/7aee155b-84dc-4acc-9310-9edc2a395050)
+
+Também é possível visualizar o relatório em PDF:
+
+📄 `dashboard.pdf`
+
+
 Principais análises realizadas:
 
 ### Diversidade na área de dados
